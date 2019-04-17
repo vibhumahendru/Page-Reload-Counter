@@ -11,4 +11,3 @@ BackEnd - Ruby on Rails
 2. Fork and clone down the frontend repo from https://github.com/vibhumahendru/Page-Reload-Counter. CD into the repo and run "npm start"
 
 3. Enjoy!
-# Page-Reload-Counter
